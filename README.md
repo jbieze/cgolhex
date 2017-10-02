@@ -25,7 +25,7 @@ In Conway's Game of Life: HEX, users will begin with a blank, hexagonal canvas. 
 
 Conway's Game of Life: HEX will be on a single page with a JavaScript canvas and some control buttons at the bottom. These will include a random seeding button, border option selector, and a start/pause button.
 
-![Wireframe](assets/Web 1920 - 1.png)
+![Wireframe](assets/Web1920-1.png)
 
 Conway's Game of Color Wireframe
 

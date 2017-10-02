@@ -12,7 +12,7 @@ Conway's Game of Life is cellular automaton devised by mathematician John Conway
 
 This project will be an alternate version of Conway's Game of Life that takes place on a hexagonal grid rather than a square one. As it has a different grid shape than the original, the rules will need to be adjusted in order for cell birth and death to happen at a rate frequent enough to prevent the cells from all dying off quickly, but still balanced enough that the board does not devolve into hexagonal chaos.
 
-Functionality & MVP
+##Functionality & MVPs
 
 In Conway's Game of Life: HEX, users will begin with a blank, hexagonal canvas. They will be able to interact with the board in several ways:
 
@@ -21,9 +21,11 @@ In Conway's Game of Life: HEX, users will begin with a blank, hexagonal canvas. 
 * Toggling border options (wrap / fixed)
 * Starting, pausing, and resetting the automation
 
-Wireframe
+##Wireframe
 
 Conway's Game of Life: HEX will be on a single page with a JavaScript canvas and some control buttons at the bottom. These will include a random seeding button, border option selector, and a start/pause button.
+
+![Wireframe](assets/Web 1920 - 1.png)
 
 Conway's Game of Color Wireframe
 
